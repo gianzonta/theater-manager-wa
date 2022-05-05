@@ -1,5 +1,7 @@
 RUZZANTE THEATER MANAGEMENT SYSTEM
 
+See PDF report for details about the project
+
 Database informations:
 
 The website is based on a server built with the provided SQL files in "src/main/database"
