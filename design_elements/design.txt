@@ -1,0 +1,17 @@
+Main reference website: https://ruzzante.eu/
+
+Colors: see RuzzantePalette.jpeg or
+Darkest: #181616 (background)
+Grey: #424b54
+Blue: #08415c
+Light blue: #2c9a9f (usually hover color)
+Red: #d1453d
+Lightest: #fde3c8 (text color)
+
+Template choice: TBA
+
+Font: if possible https://fonts.google.com/specimen/Poppins
+
+Additional design ideas:
+https://demo.curlythemes.com/theatrewp/
+
